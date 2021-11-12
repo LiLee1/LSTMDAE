@@ -1,4 +1,4 @@
-# 使用了LSTM去噪自编码器，紧凑型的模型，更利于部署
+# 202012使用了LSTM去噪自编码器，紧凑型的模型，更利于部署
 可以作为方案（1）在设计compact紧凑型模型的时候降低了复杂度，也可以作为方案（3）降噪算法？方案（4）提高了识别准确率
 
 # Real-Time Radio Technology and Modulation Classification via an LSTM Auto-Encoder
